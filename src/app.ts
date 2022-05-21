@@ -318,7 +318,7 @@ export default class WearAHat {
 
         // If the user is wearing a hat, destroy it.
 
-
+const hatRecord = this.HatDatabase[hatId];
         // Create the hat model and attach it to the avatar's head.
         // Jimmy
 
