@@ -1,11 +1,11 @@
 {
     "clear!": {
-        "resourceId": "artifact:2006648973443465950"
+        "resourceId": "artifact:1898716626665078882"
     },
         "menuScale": {
-            "x": 4,
-            "y": 4,
-            "z": 4
+            "x": 10,
+            "y": 10,
+            "z": 10
         }
    
 }
